@@ -8,7 +8,7 @@ Although I don't have professional experience in the tech industry yet, I'm cons
 
 On this GitHub profile, you'll discover a variety of projects 🚀, ranging from mobile applications to fun games, and other useful tools. I strive to ensure that my source code is easily understandable and user-friendly because I believe that technology should bring joy to everyone.
 
-Thank you for visiting, and I hope you find something delightful in my GitHub repository. Let's create a world of cuteness and fascinating technology!
+Thank you for visiting, and I hope you find something delightful in my GitHub repository. Let's create a world fascinating technology!
 
 Best regards,  
 Pham Huu Quoc 😊
